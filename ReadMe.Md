@@ -10,12 +10,12 @@
 
 <h1>Technologies:</h1>
 <ol>
-<li> Html5   </li>
-<li> CSS3    </li>
-<li> JS      </li>
-<li> PHP 8   </li>
-<li>Laravel 7</li>
-Git/GitHub
+<li> Html5    </li>
+<li> CSS3     </li>
+<li> JS       </li>
+<li> PHP 8    </li>
+<li>Laravel 7 </li>
+<li>Git/GitHub</li>
 </ol>
 
 <h1>packages used:</h1>
